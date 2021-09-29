@@ -1,0 +1,20 @@
+{
+    "toDo": [
+        {
+            "id": 1,
+            "kegiatan": "Belajar coding",
+            "detail": "Online Zoom"
+        },
+        {
+            "id": 2,
+            "kegiatan": "Main Valorant",
+            "detail": "Map Pochinki"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Wilson"
+        }
+    ]
+}
